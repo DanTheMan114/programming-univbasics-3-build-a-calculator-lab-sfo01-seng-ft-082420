@@ -1,5 +1,4 @@
 def addition(num1, num2)
-  addition 
   puts addition
 end
 
