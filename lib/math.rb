@@ -13,7 +13,7 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  nulit = num1 * num2
+  mulit = num1 * num2
   return mulit
 end
 
