@@ -16,11 +16,13 @@ def multiplication(num1, num2)
   mulit = num1 * num2
   return mulit
 end
-
 def modulo(num1, num2)
-
+  mod = num1 % num2
+  return mod
 end
 
 def square_root(num)
+  root = num**
+  return root
 
 end
